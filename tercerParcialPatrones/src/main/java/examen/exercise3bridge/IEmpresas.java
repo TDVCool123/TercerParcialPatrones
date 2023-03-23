@@ -2,6 +2,6 @@ package examen.exercise3bridge;
 
 public interface IEmpresas {
     void info();
-    Double getPrecio();
-    void setPrecio(Double precio);
+    int getPrecio();
+    void setPrecio(int precio);
 }
